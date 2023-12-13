@@ -1,6 +1,6 @@
 {
-  "short_name": "test-1",
-  "name": "test-1",
+  "short_name": "test",
+  "name": "test",
   "icons": [
     {
       "src": "favicon.ico",
